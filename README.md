@@ -14,8 +14,8 @@
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/react.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/prettier.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/java.png" />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/spring.svg" />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/hibernate.svg" />
+<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/spring.png" />
+<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/hibernate.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/sqlserver.jpg" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/socket.svg" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/nginx.png" />
@@ -30,5 +30,8 @@
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/gitlab.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/jira.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/trello.png" />
+
+<br/>
+<br/>
 
 <img align="left" alt="Nitin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nkmdev&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=shades-of-purple&show_owner=true"/>
