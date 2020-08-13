@@ -30,7 +30,5 @@
 <img align="left" height="50px" src="https://raw.githubusercontent.com/nkmdev/nkmdev/master/images/trello.png" />
 
 <br clear="both">
-<br>
-<br>
 
-<img align="left" alt="Nitin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nkmdev&show_icons=true&hide_border=true&count_private=true&show_icons=true&show_owner=true"/>
+<img align="left" alt="Nitin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nkmdev&show_icons=true&hide_border=true&count_private=true&show_icons=true&show_owner=true&theme=dark"/>
