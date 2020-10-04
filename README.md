@@ -33,7 +33,7 @@
 <br>
 <img align="left" alt="Nitin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nkmdev&show_icons=true&hide_border=true&count_private=true&show_icons=true&show_owner=true&theme=dark"/>
 
+<br clear="both">
 <br>
-
 ![](https://komarev.com/ghpvc/?username=nkmdev&style=flat-square)
 
